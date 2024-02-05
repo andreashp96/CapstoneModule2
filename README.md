@@ -28,31 +28,25 @@ Untuk meningkatkan pelayanan serta mengembalikan kepercayaan pelanggan dalam pen
 
 
 
-## **TUJUAN PENELITIAN INI**
-
-Penelitian ini ditujukan untuk menentukan course of action untuk menanggulangi sejumlah masalah yang disebutkan terjadi di TransJakarta secara internal maupun eksternal. Berikut merupakan tujuan penelitian ini: 
-
-- Mengamati proporsi penggunaan TransJakarta per Gender, khususnya pada perhentian yang lebih sering digunakan Perempuan
-- Mengamati transaksi berdasarkan Golongan Usia, serta memfasilitasi halte kepada para pelanggan dengan kelompok usia non-Dewasa
-- Melihat perhentian yang paling sering digunakan saat Peak Hours pada Hari Kerja
-
-
-### **KESIMPULAN**
+## **KESIMPULAN**
 
 Dari analisis serta visualisasi yang telah dilakukan, berikut merupakan kesimpulan yang dikumpulkan sebagai pertimbangan dalam meningkatkan kualitas pelayanan kepada pelanggan TransJakarta:
 
 - Cibubur - Balai Kota (1T) dan Ciputat - CSW (S21) merupakan koridor yang paling banyak digunakan pada periode April 2023.
 - Halte BKN dan Penjaringan merupakan halte dengan aktivitas tertinggi baik sebagai asal maupun tujuan.
 - Wanita lebih sering menggunakan TransJakarta ketimbang Pria, dan terdapat lima koridor yang paling banyak digunakan Wanita: Koridor 9D (Pasar Minggu - Tanah Abang), T11 (Poris Plawad - Bundaran Senayan), 2E (Rusun Rawa Bebek - Kodamar), JAK.112 (Terminal Tanah Merah - Pulo Gadung) dan JAK.36 (Cilangkap - Cililitan).
-- Lansia merupakan kelompok usia yang sering diabaikan dalam pelayanan TransJakarta, dan mereka paling aktif untuk menaiki koridor Gelora Bung Karno (6V).
+- Lansia merupakan kelompok usia yang sering diabaikan dalam pelayanan TransJakarta, dan mereka paling aktif pada halte Masjid Agung untuk menaiki koridor Gelora Bung Karno (6V).
 - Untuk hari kerja, jam sibuk terjadi pada jam 6 dan 17. Koridor yang ramai pada jam-jam demikian adalah Cibubur - Balai Kota (1T), Kebayoran Lama - Tanah Abang (8C), Pasar Minggu - Tanah Abang (9D), PGC - Juanda (5C).
 
 
-### **REKOMENDASI / TINDAKAN**
+
+## **REKOMENDASI / TINDAKAN**
 
 Dari kesimpulan yang dijabarkan, berikut merupakan rekomendasi yang dapat dilakukan untuk meningkatkan kualitas pelayanan TransJakarta:
 
 - Memberikan kursi sesuai jumlah pengunjung maksimal pada halte yang mempunyai aktivitas tinggi.
 - Koridor yang digunakan Wanita dapat ditambahkan kursi khusus Wanita. Sebagai pilihan kedua, untuk mencegah perlakuan yang tidak semestinya, menambah armada khusus Wanita juga dapat dilakukan.
-- Halte-halte yang dilalui oleh Lansia khususnya pada jurusan 6V dapat diberikan lift cepat serta eskalator untuk dua arah untuk melayani Lansia.
-- Penambahan armada pada koridor yang mempunyai aktivitas tertinggi pada jam sibuk.
+- Halte-halte yang dikunjungi oleh Lansia, khususnya Masjid Agung yang rutenya terlibat dalam jurusan 6V (Ragunan - Gelora Bung Karno) dapat diberikan lift khusus darurat serta eskalator berjalan secara dua arah untuk melayani Lansia, dan selebihnya fasilitas ini juga dapat diberikan untuk penyandang disabilitas.
+- Penambahan armada pada koridor yang mempunyai aktivitas tertinggi pada jam-jam sibuk pada Cibubur - Balai Kota (1T), Kebayoran Lama - Tanah Abang (8C), Pasar Minggu - Tanah Abang (9D), PGC - Juanda (5C).
+
+
